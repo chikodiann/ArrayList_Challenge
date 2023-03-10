@@ -1,4 +1,4 @@
-# ArrayList_Challenge
+# MINI-GROCERY_STORE
 A GROCERY STORE CONSOLE APPLICATION, THAT ALLOWS USER ADD OR REMOVE ITEMS FROM LIST
 
 The ArrayList Challenge is to create an interactive console program. And give the user a menu of options as shown here:
